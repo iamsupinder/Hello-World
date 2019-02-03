@@ -1,0 +1,60 @@
+
+body {
+
+    margin: 1%;
+    background-color: skyblue;
+    color: black;
+}
+
+header {
+    margin-top : 2%;
+    background-color: snow;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+#title {
+    font-size: 2em;
+    margin-left: 40%;
+}
+
+#login {
+    float: right;
+    font-size: 1.5em;
+    padding: .5%;
+    margin: .4%;
+}
+
+article {
+    background-color: snow;
+    margin: 10%;
+    height: 50%;
+}
+
+#query {
+    font-size: 1.5em;
+    float: right;
+    margin-right: 12%;
+    margin-top: 7%;
+    background-color: skyblue;
+    padding: 5%;
+
+}
+
+
+#motivation {
+    font-size: 1.5em;
+    margin-left: 12%;
+    position: relative;
+    top: 40%;
+    background-color: skyblue;
+    padding: 5%;
+
+}
+
+footer {
+    margin-left: 44%;
+    margin-right: 44%;
+    position: absolute;
+    bottom: 0%;
+}
